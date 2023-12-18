@@ -1,6 +1,6 @@
 👋 Hi, I’m @bhavinpatel
 
-👀 Self-directed and driven Information Technology professional with 4.7+ years industry experience with comprehensive accomplishments leading enterprise data architecture, financial reports/dashboards, clinical metrics and cloud migrations. Recognized for executing high impactful projects in complex, regulated and fast-paced environments.
+👀 Self-directed and driven Information Technology professional with 7+ years industry experience with comprehensive accomplishments leading enterprise data architecture, financial reports/dashboards, clinical metrics and cloud migrations. Recognized for executing high impactful projects in complex, regulated and fast-paced environments.
 
 🌱 Involved in all phases of project life-cycle including data discovery and requirements gathering, technical architecture, data ingestion and collection, data processing 
 and transformation, data validation, data storage and integration, data governance, data analytics and reporting, deployment and monitoring, maintenance and optimization. 
